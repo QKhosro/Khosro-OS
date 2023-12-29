@@ -1,9 +1,9 @@
 # KHosro
 
-< Hello I am {KHOSRO} 
+< Hello, I am [Khosro] 
 
-< I live in {BUCHAREST}
+< I live in [Bucharest]
 
-< I am a {DEVELOPER}
+< I am a [Developer]
 
-< See me in {HERE}
+< Find me in [Here]
