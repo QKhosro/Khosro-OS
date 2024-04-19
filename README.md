@@ -2,7 +2,7 @@
 
 < Hello, I am [Khosro] 
 
-< I live in [Bucharest]
+< I'm from [Bucharest]
 
 < I am a [Developer]
 
