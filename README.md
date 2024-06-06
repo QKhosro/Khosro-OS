@@ -1,6 +1,6 @@
 Welcome to the my first project
 
-The Khosro is a project that I began for tested my experience on Githgub
+This is a project that I began for tested my experience on Githgub
 
    *** KHosro ***
 
