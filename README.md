@@ -1,4 +1,4 @@
-Welcome to the my first project
+ my first project
 
 This is a project that I create for tested my experience on Githgub
 
