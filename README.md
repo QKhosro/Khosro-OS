@@ -2,13 +2,13 @@
 
 This is a project that I create for tested my experience on Githgub
 
-   *** KHosro ***
+   *** KHosro-OS ***
 
 < Hello, I am [Khosro] 
 
 < I'm from [Bucharest]
 
-< I am a [Developer]
+< I am a [Junior Developer]
 
 < Find me in [Here]
 
