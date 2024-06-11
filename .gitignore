@@ -2,10 +2,10 @@
 *.d
 
 # Compiled Object files
-*.slo
 *.lo
-*.o
+*.slo
 *.obj
+*.o
 
 # Precompiled Headers
 *.gch
