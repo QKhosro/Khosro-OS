@@ -10,6 +10,4 @@ This is a project that I create for tested my experience on Githgub
 
 < I am a [Junior Developer]
 
-< Find me in [Here]
-
 *** Thanks for watching me ***
