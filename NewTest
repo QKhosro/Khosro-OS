@@ -5,7 +5,7 @@ from flask import Flask, render_template, request
 app = Flask(__name__)
 
 
-# OpenWeatherMap API key (Get your API key by signing up at https://home.openweathermap.org/users/sign_up)
+# OpenWeatherMap API key (Get your API key by signing up at https://home./users/sign_up)
 
 api_key = "YOUR_API_KEY_HERE"
 
@@ -26,7 +26,7 @@ def index():
 
 def get_weather_data(city):
 
-    url = f"http://api.openweathermap.org/data/2.5/forecast"
+    url = f"http://api./data/2.5/forecast"
 
     params = {"q": city, "appid": api_key, "units": "metric"}
 
