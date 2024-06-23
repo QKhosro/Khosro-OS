@@ -1,1 +1,8 @@
-Except as otherwise noted, the content of this repo is licensed under the ...
+This simple Python machine learning and artificial intelligence project involves building a simple classifier to predict lily flower species based on their sepal and petal dimensions.
+We will use Python, the scikit-learn library and the famous Iris dataset for this.
+
+
+Project requirements:
+
+*Install Python
+*The scikit-learn library
