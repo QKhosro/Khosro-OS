@@ -30,3 +30,8 @@ knn.fit(X_train, y_train)
 
 # Make predictions on the test set
 y_pred = knn.predict(X_test)
+
+# Evaluate the model
+accuracy = accuracy_score(y_test, y_pred)
+print("Accuracy:", accuracy)
+print("\nClassification Report:\n", classification_report(y_test, y_pred))
