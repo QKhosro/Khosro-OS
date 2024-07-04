@@ -35,3 +35,6 @@ y_pred = knn.predict(X_test)
 accuracy = accuracy_score(y_test, y_pred)
 print("Accuracy:", accuracy)
 print("\nClassification Report:\n", classification_report(y_test, y_pred))
+
+The output of the above simple Python project is as follows:
+
