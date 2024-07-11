@@ -38,3 +38,9 @@ print("\nClassification Report:\n", classification_report(y_test, y_pred))
 
 The output of the above simple Python project is as follows:
 
+Accuracy: 1.0
+
+classification Report:
+           Precision  Recall  Fl-score  Support
+
+Setosa:       1.00      1.00     1.00      10
