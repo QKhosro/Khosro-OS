@@ -44,3 +44,4 @@ classification Report:
            Precision   Recall   Fl-score   Support
 
 Setosa:       1.00      1.00      1.00      10
+versicolor:   1.00      1.00      1.00      9
