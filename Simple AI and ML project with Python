@@ -46,3 +46,5 @@ classification Report:
 Setosa:         1.00      1.00      1.00      10
 versicolor:     1.00      1.00      1.00      9
 virginica:      1.00      1.00      1.00      11
+
+accuracy                            1.00      30
