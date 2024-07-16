@@ -54,3 +54,4 @@ weighted avg    1.00      1.00      1.00      30
 
 #The description of the above project is as follows:
 *This project loads the Iris dataset, which contains measurements of three different lily flower (Setosa, Versicolor, and Virginica).
+*The data is prepared by separating the characteristics (sepal and petal dimensions) and the target (species).
