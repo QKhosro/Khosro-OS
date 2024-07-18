@@ -56,3 +56,4 @@ weighted avg    1.00      1.00      1.00      30
 *This project loads the Iris dataset, which contains measurements of three different lily flower (Setosa, Versicolor, and Virginica).
 *The data is prepared by separating the characteristics (sepal and petal dimensions) and the target (species).
 *The dataset is split into a training set and a test set using "train_test_split" from "scikit-learn". This is to evaluate performance on unobserved data.
+*The K-Nearest Neighbors (KNN) classifier is developed and trained on the training data using the fitting method.
