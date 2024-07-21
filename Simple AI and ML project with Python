@@ -60,6 +60,7 @@ weighted avg    1.00      1.00      1.00      30
 *Then the trained model is used to predict the test set.
 *Model accuracy is calculated using accuracy_score and an accurate classification report is generated using classification_report.
 
-***
+                                                                  ***
 
-This project provides a practical introduction to machine learning classification using a simple and popular algorithm, K-Nearest Neighbors (KNN). Users can experiment with different classifiers, tune meta-parameters, and explore more complex datasets to further understand machine learning and AI concepts.
+This project provides a practical introduction to machine-learning classification using a simple and popular algorithm, "K-Nearest Neighbors" (KNN). 
+Users can experiment with different classifiers, tune meta-parameters, and explore more complex datasets to further understand machine-learning and AI concepts.
