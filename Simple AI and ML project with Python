@@ -59,3 +59,7 @@ weighted avg    1.00      1.00      1.00      30
 *The "K-Nearest Neighbors"(KNN) classifier is developed and trained on the training data using the fitting method.
 *Then the trained model is used to predict the test set.
 *Model accuracy is calculated using accuracy_score and an accurate classification report is generated using classification_report.
+
+***
+
+This project gives a practical introduction to machine classification using a simple and popular algorithm, K-Nearest Neighbors (KNN). Users can adjust with different tester classifiers and perform more complex sets to further understand the concepts of AI machines and probes.
