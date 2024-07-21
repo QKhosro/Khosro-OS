@@ -62,4 +62,4 @@ weighted avg    1.00      1.00      1.00      30
 
 ***
 
-This project gives a practical introduction to machine classification using a simple and popular algorithm, K-Nearest Neighbors (KNN). Users can adjust with different tester classifiers and perform more complex sets to further understand the concepts of AI machines and probes.
+This project provides a practical introduction to machine learning classification using a simple and popular algorithm, K-Nearest Neighbors (KNN). Users can experiment with different classifiers, tune meta-parameters, and explore more complex datasets to further understand machine learning and AI concepts.
